@@ -1,8 +1,15 @@
-# Hi, I'm Midhuna RS 👋
+# 👋 Hi, I'm Midhuna RS
 
-### Data Science Intern | BSc Computer Science Graduate | Python & SQL
+### 💼 Data Science Intern  
+### 🎓 BSc Computer Science Graduate | 🐍 Python & SQL
 
-I'm currently working as a **Data Science Intern at School of Skills**, building practical skills in data analysis, Python, SQL, statistics, and machine learning. I hold a BSc in Computer Science and am focused on developing my expertise in Data Science.
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+> 📊 **Data**  •  💻 **Technology**  •  🌱 **Learning**  •  🚀 **Growth**
+
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+
+I'm currently working as a **Data Science Intern at School of Skills**, building practical skills in **data analysis, Python, SQL, statistics, and machine learning**. As a **BSc Computer Science graduate**, I'm focused on developing my expertise in Data Science and gaining practical experience.
 
 ---
 
