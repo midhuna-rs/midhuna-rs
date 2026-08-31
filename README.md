@@ -1,23 +1,23 @@
-# Hi, I'm Midhuna RS
+# Hi, I'm Midhuna RS 👋
 
 ### Data Science Intern | BSc Computer Science Graduate | Python & SQL
 
-I'm currently working as a **Data Science Intern at School of Skills**, developing practical skills in data analysis, Python, SQL, statistics, and machine learning.
+I'm currently working as a **Data Science Intern at School of Skills**, building practical skills in data analysis, Python, SQL, statistics, and machine learning. I hold a BSc in Computer Science and am focused on developing my expertise in Data Science.
 
 ---
 
-## About Me
+## About Me 💻
 
 - Currently working as a **Data Science Intern at School of Skills**
 - Completed **BSc Computer Science**
 - Interested in **Data Science, Data Analysis, and Machine Learning**
 - Currently developing my skills in **Python and SQL**
-- Learning through hands-on projects and practical applications
-- Interested in applying data-driven approaches to real-world problems
+- Learning through hands-on training and practical applications
+- Focused on building a strong foundation in Data Science
 
 ---
 
-## Technical Skills
+## Technical Skills 🛠️
 
 ### Programming
 - Python
@@ -38,7 +38,7 @@ I'm currently working as a **Data Science Intern at School of Skills**, developi
 
 ---
 
-## Currently Learning
+## Currently Learning 📚
 
 - Python for Data Science
 - Pandas & NumPy
@@ -49,28 +49,16 @@ I'm currently working as a **Data Science Intern at School of Skills**, developi
 
 ---
 
-## Projects
+## Career Goal 🎯
 
-### Data Analysis Projects
-Working on projects involving data cleaning, exploratory data analysis, visualization, and extracting insights from datasets.
-
-### Machine Learning Projects
-Developing practical machine learning projects to strengthen my understanding of machine learning concepts and workflows.
-
-More projects coming soon.
+My goal is to grow as a **Data Scientist** by gaining practical experience, continuously improving my technical skills, and applying data-driven approaches to real-world problems.
 
 ---
 
-## Career Goal
-
-My goal is to grow as a **Data Scientist** by gaining practical experience, building meaningful projects, and continuously improving my skills in data analysis, machine learning, and related technologies.
-
----
-
-## Connect With Me
+## Connect With Me 🤝
 
 **LinkedIn:** [Midhuna RS](https://www.linkedin.com/in/midhuna-r-s-a27766354/)
 
 ---
 
-Thanks for visiting my profile.
+⭐ Thanks for visiting my profile!
