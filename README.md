@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Midhuna RS
 
-### 💼 Data Science Intern  
-### 🎓 BSc Computer Science Graduate | 🐍 Python & SQL
+### Data Science Intern  
+### BSc Computer Science Graduate |  Python & SQL
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
