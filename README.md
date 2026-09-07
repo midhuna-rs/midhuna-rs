@@ -5,7 +5,7 @@
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
-> 📊 **Data**  •  💻 **Technology**  •  🌱 **Learning**  •  🚀 **Growth**
+>  **Data**  •   **Technology**  •   **Learning**  •   **Growth**
 
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 
